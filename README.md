@@ -14,7 +14,7 @@ I bring a strong background in ethics, risk, and compliance — now applying tha
 - Building my first projects — check back soon!
 
 ### 📫 How to reach me
-- LinkedIn: [your link here]
+- LinkedIn: https://www.linkedin.com/in/kanikaaroraacrabtree
 
 ---
 
