@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**KanikaACrabtree/KanikaACrabtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a compliance & ethics professional expanding into tech. Currently learning:
 
-Here are some ideas to get you started:
+- ☁️ Google Cloud Platform (GCP)
+- 🐙 Git & GitHub
+- 💻 Tech fundamentals in general
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring a strong background in ethics, risk, and compliance — now applying that same rigor to understanding how things work under the hood in tech.
+
+### 🌱 What I'm up to
+- Learning the basics of version control and cloud infrastructure
+- Exploring how compliance and tech intersect (data governance, security, privacy)
+- Building my first projects — check back soon!
+
+### 📫 How to reach me
+- LinkedIn: [your link here]
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KanikaACrabtree&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanikaACrabtree&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KanikaACrabtree)
