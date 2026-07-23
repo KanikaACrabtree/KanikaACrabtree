@@ -10,6 +10,7 @@ I bring a strong background in ethics, risk, and compliance — now applying tha
 
 ### 🌱 What I'm up to
 - Learning the basics of version control and cloud infrastructure
+- Practicing the basics of Github and markdown documents
 - Exploring how compliance and tech intersect (data governance, security, privacy)
 - Building my first projects — check back soon!
 
